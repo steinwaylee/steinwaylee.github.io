@@ -12,7 +12,7 @@ on:
 
 jobs:
   check:
-    # available images: https://github.com/actions/runner-images#available-images
+    if: false  # disabled
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️

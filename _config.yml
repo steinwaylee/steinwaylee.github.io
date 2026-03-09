@@ -2,6 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
+# Use GitHub Actions (deploy.yml) to build; disable default GitHub Pages build
+jekyll:
+  github_pages:
+    enabled: false
+
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Xiangtian
 middle_name:
