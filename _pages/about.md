@@ -6,7 +6,7 @@ subtitle: Software Engineer @ Pony.ai | Master of Science @ UC San Diego
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: true
 
 selected_papers: false
