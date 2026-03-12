@@ -1,6 +1,6 @@
 ---
 layout: page
-title: [Auto]Stitching Photo Mosaics
+title: "[Auto]Stitching Photo Mosaics"
 description: Panorama creation with manual and automatic keypoint matching
 img: assets/img/project/cs194/proj5.jpg
 importance: 6
