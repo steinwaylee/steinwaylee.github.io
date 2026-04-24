@@ -9,6 +9,7 @@ on:
 
 jobs:
   update-citations:
+    if: false # disabled: remove this line to re-enable
     runs-on: ubuntu-latest
 
     steps:
